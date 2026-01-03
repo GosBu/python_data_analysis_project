@@ -1,5 +1,3 @@
-# python_data_analysis_project
-
 # Basic DNA Analysis
 
 Python project demonstrating data handling, cleaning, and visualisation skills through DNA sequence analysis.
